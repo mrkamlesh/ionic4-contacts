@@ -1,5 +1,7 @@
 {
   "name": "ionic4-contacts",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
